@@ -1,0 +1,1 @@
+console.log("tambahin file2");
