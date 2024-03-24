@@ -1,3 +1,5 @@
 console.log("Belajar-git");
+
 const add = (a,b)=> a+b;
-consol.log(add(1,5));
+console.log(add(1,5));
+
