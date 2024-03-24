@@ -8,3 +8,5 @@ console.log(substruckNumber(5,2));
 
 const multiply = (a,b)=> a*b;
 console.log(multiply(4,6));
+
+console.log("Push ke git");
