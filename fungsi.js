@@ -10,3 +10,6 @@ const multiply = (a,b)=> a*b;
 console.log(multiply(4,6));
 
 console.log("Push ke git");
+
+const math = (number) => Math.sin(number);
+console.log(math(45));
